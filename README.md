@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Luís Felipe, tenho 22 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Estadual Abelardo Moreira em 2021. Atualmente, estou cursando Engenharia de Software na UNIFAN em Feira de Santana. Sou apaixonado por tecnologia e atualmente estou buscando melhorar ainda mais meus conhecimentos e ingressar no mercado de trabalho na área da programação.
+Me chamo Luís Felipe Lima Mendes, tenho 22 anos e sou natural da Bahia. Concluí o ensino médio no Colégio Estadual Abelardo Moreira em 2021. Atualmente, estou cursando Engenharia de Software na UNIFAN em Feira de Santana. Sou apaixonado por tecnologia e atualmente estou buscando melhorar ainda mais meus conhecimentos e ingressar no mercado de trabalho na área da programação.
 
 
 ---
